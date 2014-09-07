@@ -1,0 +1,38 @@
+$date
+  Thu Aug 02 22:35:58 2012
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ x $end
+$var reg 1 % y $end
+$var reg 1 & z $end
+$scope module uut $end
+$var reg 1 ' a $end
+$var reg 1 ( b $end
+$var reg 1 ) c $end
+$var reg 1 * x $end
+$var reg 1 + y $end
+$var reg 1 , z $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+#100000000

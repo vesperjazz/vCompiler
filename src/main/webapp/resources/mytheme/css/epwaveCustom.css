@@ -1,0 +1,124 @@
+svg
+{
+	cursor:default;
+	pointer-events:all
+	
+	}
+	text.name
+	{
+	font-size:80%;
+	font-family:Lucida Console;
+	fill:white
+	}
+	text.value
+	{
+	font-size:80%;
+	font-family:Lucida Console;
+	fill:#ffb733
+	}
+	text.time
+	{
+	font-size:80%;
+	font-family:Lucida Console;
+	fill:yellow
+	}
+	text.busData
+	{
+	font-size:80%;
+	font-family:Lucida Console;
+	fill:aqua
+	}
+	line,rect
+	{
+	shape-rendering:crispEdges
+	}.verticalLine
+	{
+	stroke:#ffb733;
+	stroke-width:1;
+	stroke-opacity:.8
+	}
+	i.cursorTimeArrow
+	{
+	color:#ffb733
+	}
+	.removeWave>i
+	{
+	color:red
+	}
+	.btn.btn-default.disabled
+	{
+	opacity:.50
+	}
+	#header .btn{
+	margin:0
+	}
+	#header .btn:focus
+	{
+	background-position:0 0
+	}
+	#epwaveToolbar .btn
+	{
+	padding:4px 12px
+	}
+	.epwaveForm
+	{
+	margin:0 0 5px
+	}
+	.epwaveForm input.form-control[type="text"]
+	{
+	height:22px
+	}
+	#uploadForm .col-sm-1,
+	#uploadForm .col-sm-2,
+	#uploadForm .col-sm-3,
+	#uploadForm .col-sm-4,
+	#uploadForm .col-sm-5,
+	#uploadForm .col-sm-6,
+	#uploadForm .col-sm-7,
+	#uploadForm .col-sm-8,
+	#uploadForm .col-sm-9,
+	#uploadForm .col-sm-10,
+	#uploadForm .col-sm-11,
+	#uploadForm .col-sm-12
+	{
+	padding-right:5px;padding-left:0
+	}
+	#fullSignalName
+	{
+	margin:0;
+	font-family:Lucida Console
+	}
+	.fullSignalWell
+	{
+	margin:0;
+	padding:3px
+	}
+	#expandOptions,
+	#collapseOptions
+	{
+	cursor:pointer;
+	vertical-align:top
+	}
+	#typeGroup
+	{
+	display:inline-block
+	}
+	#type
+	{
+	height:24px;
+	line-height:24px;
+	margin-bottom:5px;
+	padding:2px 0 2px 2px
+	}
+	#type_upload
+	{
+	padding:0;
+	margin-bottom:5px
+	}
+	input[type="file"]
+	{
+	height:22px;
+	line-height:22px;
+	margin-right:5px;
+	font-size:13px
+	}

@@ -1,0 +1,22 @@
+$date
+  Thu Aug 02 22:35:00 2012
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! a[3:0] $end
+$var reg 1 " z $end
+$scope module uut $end
+$var reg 4 # a[3:0] $end
+$var reg 1 $ z $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+1"
+b0000 #
+1$
+#100000000
